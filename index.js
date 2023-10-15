@@ -13,7 +13,7 @@ if (expHeroi < 1000) {
 } else if (expHeroi >= 6001 && expHeroi <= 7000) {
     nivelHeroi = "Ouro";
 } else if (expHeroi >= 7001 && expHeroi <= 8000) {
-    nivelHeroi = "Platina Diamante";
+    nivelHeroi = "Platina";
 } else if (expHeroi >= 8001 && expHeroi <= 9000) {
     nivelHeroi = "Ascendente";
 } else if (expHeroi >= 9001 && expHeroi <= 10000) {
